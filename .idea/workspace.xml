@@ -2,25 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b868bddd-82fa-4c66-8e89-e3d1be722f66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LettersToMorseCodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MorseCodeToLettersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/MorseToLetters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MorseCodeToLetters.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/MorseCodeToLetters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/LettersToMorseCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MorseCodeToLetters.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MorseCodeToLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MorseCodeToLetters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LettersToMorseCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MorseCodeToLetters.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,10 +46,25 @@
   </component>
   <component name="ProjectId" id="1UQ5RUSCChs6bWgVy5KjfgL639L" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/AnimalsV2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -59,18 +76,6 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -96,8 +101,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575275970612</updated>
+      <workItem from="1583999519211" duration="3669000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -111,5 +120,27 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="197" key="GridCell.Tab.0.bottom" timestamp="1584002577027">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="197" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1584002577027" />
+    <state width="1238" height="197" key="GridCell.Tab.0.center" timestamp="1584002577027">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="197" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1584002577027" />
+    <state width="1238" height="197" key="GridCell.Tab.0.left" timestamp="1584002577026">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="197" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1584002577026" />
+    <state width="1238" height="197" key="GridCell.Tab.0.right" timestamp="1584002577027">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="197" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1584002577027" />
+    <state x="305" y="124" key="search.everywhere.popup" timestamp="1584003821039">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="124" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1584003821039" />
   </component>
 </project>

@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.concurrent.Callable;
 
 class main {
     public static void main(String[] args) {
@@ -14,16 +15,18 @@ class main {
 
             switch (choice) {
                 case 1:
-                    LettersToMorseCode letter = new LettersToMorseCode();
-                    letter.lettersToMorse();
+                    Converter letters = new Converter();
+                    letters.lettersToMorse(); //function call to convert letters to morse code.
                     break;
                 case 2:
-                    MorseCodeToLetters morse = new MorseCodeToLetters();
-                    morse.morseToLetters();
+                    Converter morse = new Converter();
+                    morse.morseToLetters(); //function call to convert morse code to letters.
                     break;
             }
             System.out.println("Type 'yes' to run again or any key to exit");
             rerun = run.nextLine();
         }while (rerun.equalsIgnoreCase("Yes"));
     }
+
+
 }
